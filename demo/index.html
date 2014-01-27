@@ -38,7 +38,7 @@ $(function() {
     $('#floatingColumn').floatingRightColumn({
         leftColumnContainer: $("#leftColumn"),
         rightColumnContainer: $("#rightColumn"),
-        bottomOffset: 20,
+        bottomOffset: 10,
         topOffset: 0
     }); 
 });
@@ -47,6 +47,9 @@ $(function() {
 </head>
 
 <body>
+    <div id="header" style="height: 100px">
+        <h1>Yahoo News style floating right column</h1>
+    </div>
     <div id="leftColumn">
         <h2>Left Column</h2>
         <p><strong>The left column in this example scrolls normally.</strong></p>

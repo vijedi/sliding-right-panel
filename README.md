@@ -56,4 +56,4 @@ Finally, you need to make the left and right column containers equal size and co
     });
     </script>
     
-Full details of the implementation are [in this blog post](http://www.tejusparikh.com)
+Full details of the implementation are [in this blog post](http://www.tejusparikh.com).
